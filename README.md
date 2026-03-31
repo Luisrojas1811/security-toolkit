@@ -8,7 +8,7 @@ Cada módulo implementa una herramienta básica de seguridad con su explicación
 | # | Módulo | Concepto | Estado |
 |---|--------|----------|--------|
 | 01 | Password Checker | Autenticación / Entropía | ✅ Completo |
-| 02 | Hash Generator | Integridad de datos | 🔜 Próximamente |
+| 02 | Hash Generator | Integridad de datos | ✅ Completo |
 | 03 | Port Scanner | Reconocimiento | 🔜 Próximamente |
 | 04 | Cipher Tool | Criptografía básica | 🔜 Próximamente |
 | 05 | Log Analyzer | Detección de amenazas | 🔜 Próximamente |
